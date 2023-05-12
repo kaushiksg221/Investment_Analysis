@@ -1,0 +1,51 @@
+Investment Analysis
+
+* Assignment 1 *
+Estimating average excess return
+Computing mean returns over 10 year rolling window to estimate equity risk premium over time
+
+Calculating risk measures for stocks and bonds
+Sharpe ratio
+VaR
+Expected shortfall
+Skewness
+Kurtosis
+Max Drawdown
+Computing optimal allocation to cash, stocks and T-bonds
+
+Inflation hedge
+We were given 4 options and asked to find the correlation between % changes in the inflation index over 12month and 24 month horizon to compare with US stock index, US T-bills, Gold and Bitcoin. The higher the correlation better the asset is at hedging the inflation at a predetermined horizon
+
+
+
+* Assignment 2 *
+
+Analyze monthly return data on the 12 industry portfolios
+
+Plotting efficient frontier 
+Reporting weights of the tangency portfolio
+Back testing momentum effect with industry portfolios
+Compute average returns, std dev of Winner and Loser portfolio
+Plot time-series of rolling 3 and 10 year avg return on the industry winner minus loser portfolio
+Run Fama-French regression to obtain winner minus loser portfolio alpha
+
+Hedging global warming risk: designing an investment strategy to hedge negative effects on asset prices resulting from global warming
+
+
+
+* Assignment 3 *
+
+Merger Announcement event study
+
+Studying the effect on merger announcement on the stock price of target firm
+Computing cumulative abnormal returns
+
+
+* Assignment 4 *
+HBS case Walt Disney sleeping beauty bonds: Duration Analysis
+
+* Assignment 5 *
+Binomial Pricing model
+Black Scholes option pricing model
+
+
